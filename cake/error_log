@@ -1,0 +1,441 @@
+[16-Jan-2021 08:15:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(82): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 08:21:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(83): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 08:26:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(83): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 08:26:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(83): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 08:26:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(83): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 08:26:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(83): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 08:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(83): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 09:24:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 09:24:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 09:25:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 09:25:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 09:25:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 09:26:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 09:27:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:21:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:21:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:21:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/add.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:22:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(80): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 17
+[16-Jan-2021 12:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 12:43:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 12:44:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 17
+[16-Jan-2021 12:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 17
+[16-Jan-2021 12:44:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 17
+[16-Jan-2021 12:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 17
+[16-Jan-2021 12:47:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(2): include('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:47:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(2): include('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:48:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:48:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:48:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(80): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:48:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(2): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:49:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/myrecipe.php(80): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 17
+[16-Jan-2021 12:50:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:50:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'icebeary'@'localhost' (using password: YES) in /home4/icebeary/public_html/cake/dbconnect.php:8
+Stack trace:
+#0 /home4/icebeary/public_html/cake/dbconnect.php(8): PDO->__construct('mysql:host=loca...', 'icebeary', '19981229Yy')
+#1 /home4/icebeary/public_html/cake/addrecipe.php(29): require_once('/home4/icebeary...')
+#2 {main}
+  thrown in /home4/icebeary/public_html/cake/dbconnect.php on line 8
+[16-Jan-2021 12:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 12:53:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 12:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 12:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 12:59:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 13:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 13:01:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/icebeary/public_html/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/addrecipe.php on line 44
+[16-Jan-2021 21:07:19 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[16-Jan-2021 21:07:59 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[16-Jan-2021 21:10:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '',:recipename, :description, :' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[16-Jan-2021 21:10:11 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '',:recipename, :description, :' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[16-Jan-2021 21:10:50 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[16-Jan-2021 21:12:47 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[16-Jan-2021 21:13:02 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[16-Jan-2021 21:13:38 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[16-Jan-2021 21:16:00 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/addrecipe.php on line 44
+[17-Jan-2021 06:09:32 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php:81
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php on line 81
+[17-Jan-2021 06:36:00 Asia/Kuala_Lumpur] PHP Warning:  unlink(uploads/601385.): No such file or directory in /home2/develope/public_html/Web/LimWenWen/cake/editrecipe.php on line 55
+[17-Jan-2021 09:31:09 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php on line 29
+[17-Jan-2021 09:31:45 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php on line 29
+[17-Jan-2021 09:32:00 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php on line 29
+[17-Jan-2021 09:34:05 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php on line 29
+[17-Jan-2021 09:34:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/develope/public_html/Web/LimWenWen/cake/myrecipe.php on line 29
+[20-Jan-2021 03:14:40 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:14:44 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:14:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:21:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:21:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:21:25 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:29:49 UTC] PHP Parse error:  syntax error, unexpected '':email'' (T_CONSTANT_ENCAPSED_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 118
+[20-Jan-2021 03:29:52 UTC] PHP Parse error:  syntax error, unexpected '':email'' (T_CONSTANT_ENCAPSED_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 118
+[20-Jan-2021 03:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home4/icebeary/public_html/cake/myrecipe.php:118
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/myrecipe.php on line 118
+[20-Jan-2021 03:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home4/icebeary/public_html/cake/myrecipe.php:118
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/myrecipe.php on line 118
+[20-Jan-2021 03:33:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 03:33:54 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 03:36:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:36:54 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:42:02 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 03:43:00 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 03:43:15 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 03:43:23 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 03:43:26 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 03:44:27 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:44:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:08 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:08 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:45:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 121
+[20-Jan-2021 03:48:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:48:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:48:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:48:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:48:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:48:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 03:50:03 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home4/icebeary/public_html/cake/myrecipe.php on line 116
+[20-Jan-2021 04:07:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 04:07:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 04:08:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 04:08:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 04:08:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 04:08:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 04:08:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 04:08:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[20-Jan-2021 04:13:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/icebeary/public_html/cake/myrecipe.php on line 123
+[20-Jan-2021 04:19:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:26 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:26 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:19:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:21:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[20-Jan-2021 04:21:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/icebeary/public_html/cake/myrecipe.php on line 130
+[22-Jan-2021 15:47:03 UTC] PHP Parse error:  syntax error, unexpected ''.$_SESSION['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home4/icebeary/public_html/cake/myrecipe.php on line 118
+[22-Jan-2021 15:59:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 170
+[22-Jan-2021 15:59:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/icebeary/public_html/cake/myrecipe.php:122
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/myrecipe.php on line 122
+[22-Jan-2021 15:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/icebeary/public_html/cake/myrecipe.php:122
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/myrecipe.php on line 122
+[22-Jan-2021 15:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/icebeary/public_html/cake/myrecipe.php:122
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/myrecipe.php on line 122
+[22-Jan-2021 15:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/icebeary/public_html/cake/myrecipe.php:122
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/myrecipe.php on line 122
+[22-Jan-2021 16:00:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/icebeary/public_html/cake/myrecipe.php:122
+Stack trace:
+#0 {main}
+  thrown in /home4/icebeary/public_html/cake/myrecipe.php on line 122
+[22-Jan-2021 16:04:14 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/icebeary/public_html/cake/myrecipe.php on line 117
+[23-Jan-2021 08:21:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 175
+[23-Jan-2021 08:21:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 175
+[23-Jan-2021 08:21:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 175
+[23-Jan-2021 08:21:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 175
+[23-Jan-2021 08:21:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 175
+[23-Jan-2021 08:21:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 175
+[23-Jan-2021 08:22:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 174
+[23-Jan-2021 08:22:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 174
+[23-Jan-2021 08:22:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/icebeary/public_html/cake/myrecipe.php on line 174
